@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="org.mavlink.generator/Java/lib/org.mavlink.generator-1.0.6.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/org.mavlink.generator/org.mavlink.generator.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=org.mavlink.generator/src&lt;org.mavlink.generator{MAVLinkGenerator.java[MAVLinkGenerator" manifestLocation="/org.mavlink.library/resources/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/org.mavlink.generator/.pmd"/>
+        <folder path="/org.mavlink.generator/target"/>
+        <javaElement handleIdentifier="=org.mavlink.generator/src"/>
+        <file path="/org.mavlink.generator/generator_readme.txt"/>
+        <file path="/org.mavlink.generator/pom.xml"/>
+        <file path="/org.mavlink.generator/makedistrib.bat"/>
+        <file path="/org.mavlink.generator/makedistrib.sh"/>
+        <file path="/org.mavlink.generator/org.mavlink.generator.doxyfile"/>
+        <file path="/org.mavlink.generator/.classpath"/>
+        <javaElement handleIdentifier="=org.mavlink.generator/test"/>
+        <file path="/org.mavlink.generator/build.xml"/>
+        <folder path="/org.mavlink.generator/Java"/>
+        <file path="/org.mavlink.generator/.project"/>
+    </selectedElements>
+</jardesc>
